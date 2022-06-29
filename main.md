@@ -1,3 +1,3 @@
 # Hello there
 
-Here's a bit of text!
+Here's a little text!
